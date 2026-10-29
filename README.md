@@ -19,9 +19,9 @@ A Power BI-based project to analyze cyber threats, emergency incidents, environm
 Milestone 1: Data Preparation and Validation
 
 ## Author
--Pari Patel
--Sai Sree Venkata Gopi
--Abisha S
--Hara Prasad
+- Pari Patel
+- Sai Sree Venkata Gopi
+- Abisha S
+- Hara Prasad
 
 **Infosys Springboard Virtual Internship 7.0**
